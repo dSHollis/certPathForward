@@ -3,7 +3,7 @@
 Running list — not strictly ordered, updated as things move.
  
 ## Setup
-- [x] Organize GitHub account and Git functions & created `README.md` and `checklist.md` initial repo items
+- [x] Organize GitHub account, Git functions, & create `README.md` and `checklist.md` initial repo items
 - [x] Organize local directory structures
 
 ## Linux+
