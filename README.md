@@ -26,7 +26,7 @@ certPathForward/
 ```
 
 ## Background
-Federal electronics technician with 12+ years across the Air Force, Air National Guard, Department of Justice, and Department of Commerce - NOAA HUrricane Hunters (airborne data systems).
+Federal electronics technician with 12+ years across the Air Force, Air National Guard, Department of Justice, and Department of Commerce - NOAA Hurricane Hunters (airborne data systems).
 
 ## Other resources in the mix
 - [roadmap.sh](https://roadmap.sh) — skill-tree/reference checklists
