@@ -8,10 +8,7 @@ Running list — not strictly ordered, updated as things move.
 
 ## Linux+
 - [ ] CompTIA account set up
-- [ ] Linux+ V8 bundle purchased (CertMaster Learn/Labs + voucher)
-- [ ] Study notes started in `notes/linux-plus/`
-- [ ] Exam scheduled
-- [ ] Exam passed
+- [ ] Research and plan out cert path
 
 ## Ongoing Upkeep
 - [ ] Daily log entries (`logs/daily.md`)

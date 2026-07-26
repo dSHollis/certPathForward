@@ -6,7 +6,6 @@ Documenting my path toward Linux/networking/security certs, hands-on labs, and r
 Python · Bash · Linux · Networking · Security
 
 ## Cert roadmap outlook
-- [ ] **CompTIA Linux+ (V8 / XK0-006)**
 - [ ] **CompTIA Security+**
 - [ ] **CompTIA Network+**
 
@@ -15,14 +14,13 @@ Python · Bash · Linux · Networking · Security
 ```
 certPathForward/
 ├── README.md              ← you are here
-├── CHECKLIST.md           ← running to-do list
+├── CHECKLIST.md           
 ├── notes/
-│   ├── linux-plus/
 │   ├── network-plus/
 │   └── security-plus/
 ├── projects/
 └── logs/
-    └── daily.md            ← short "what I did today" entries
+    └── daily.md            
 ```
 
 ## Background
