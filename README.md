@@ -1,6 +1,6 @@
 # certPathForward
 
-Documenting my path toward Linux/networking/security certs, hands-on labs, and real projects, all in one place.
+Documenting my path toward networking/security certs, hands-on labs, and real projects, all in one place.
 
 ## Target skill set
 Python · Bash · Linux · Networking · Security
@@ -22,9 +22,6 @@ certPathForward/
 └── logs/
     └── daily.md            
 ```
-
-## Background
-Federal electronics technician with 12+ years across the Air Force, Air National Guard, Department of Justice, and Department of Commerce - NOAA Hurricane Hunters (airborne data systems).
 
 ## Other resources in the mix
 - [roadmap.sh](https://roadmap.sh) — skill-tree/reference checklists

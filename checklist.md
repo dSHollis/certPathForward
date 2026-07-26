@@ -1,10 +1,11 @@
 # Checklist
  
-Running list — not strictly ordered, updated as things move.
+A running list of things I'm trying to accomplish — not strictly ordered, updated as things move.
  
 ## Setup
 - [x] Organize GitHub account, Git functions, & create `README.md` and `checklist.md` initial repo items
 - [x] Organize local directory structures
+- [ ] Create log dir and daily.md
 
 ## Certs
 - [ ] CompTIA account set up
