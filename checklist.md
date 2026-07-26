@@ -6,7 +6,7 @@ Running list — not strictly ordered, updated as things move.
 - [x] Organize GitHub account, Git functions, & create `README.md` and `checklist.md` initial repo items
 - [x] Organize local directory structures
 
-## Linux+
+## Certs
 - [ ] CompTIA account set up
 - [ ] Research and plan out cert path
 
